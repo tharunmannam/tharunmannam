@@ -32,7 +32,7 @@ REST APIs | Microservices | Distributed Systems | IaC | System Design | OOP | TD
 |---|---|---|
 | [Elastic Face Recognition Platform](https://github.com/tharunmannam/...) | AWS, Python, PyTorch, Docker | Distributed cloud AI application processing 100 concurrent requests at sub-second latency |
 | [Travelcation](https://github.com/tharunmannam/...) | Django, React, PostgreSQL | Full-stack travel booking platform supporting 500+ concurrent users |
-| [RECRUITZ](https://github.com/tharunmannam/...) | Java, Spring Boot, MySQL | Enterprise placement management system — 1st place college hackathon |
+| [RECRUITZ](https://github.com/tharunmannam/recruitz) | Java, Spring Boot, MySQL | Enterprise placement management system — 1st place college hackathon |
 | [CI/CD Observability Stack](https://github.com/tharunmannam/...) | Kubernetes, Prometheus, Grafana, Terraform | Full CI/CD monitoring stack with real-time dashboards and alerting |
 
 ---
